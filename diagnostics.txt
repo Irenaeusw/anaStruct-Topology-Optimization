@@ -1,0 +1,10 @@
+Hexagon Lattice (9-x-hexagons,17-y-hexagons)
+Lattice Parameter: 2.1651mm
+Force: -1000N
+Elastic Modulus: 17.0MPa
+Second Moment of Area: 5666.666666666667
+Area: 500.0mm
+Bending Stiffness: 96333333.33333334
+Average Displacement: 2.2451249510398616mm
+Mesh Generated in 0.88s
+Beam Element Model Solved in 2.3999999999999995s
